@@ -1,0 +1,26 @@
+globalThis.__BUILD_MANIFEST = {
+  "pages": {
+    "/_app": []
+  },
+  "devFiles": [],
+  "polyfillFiles": [
+    "static/chunks/1i1__next_dist_build_polyfills_polyfill-nomodule.js"
+  ],
+  "lowPriorityFiles": [
+    "static/development/_buildManifest.js",
+    "static/development/_ssgManifest.js",
+    "static/development/_clientMiddlewareManifest.js"
+  ],
+  "rootMainFiles": [
+    "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_06ml8hh._.js",
+    "static/chunks/1i1__next_dist_compiled_next-devtools_index_0kif2-0.js",
+    "static/chunks/1i1__next_dist_compiled_react-dom_1f_xrvx._.js",
+    "static/chunks/1i1__next_dist_compiled_react-server-dom-turbopack_1ygzji9._.js",
+    "static/chunks/1i1__next_dist_compiled_0cv936b._.js",
+    "static/chunks/1i1__next_dist_client_1_r05gx._.js",
+    "static/chunks/1i1__next_dist_0id-2fc._.js",
+    "static/chunks/1i1__@swc_helpers_cjs_05rccl7._.js",
+    "static/chunks/FD_FD-upload_1anvha4._.js",
+    "static/chunks/turbopack-FD_FD-upload_0-edjrp._.js"
+  ]
+};

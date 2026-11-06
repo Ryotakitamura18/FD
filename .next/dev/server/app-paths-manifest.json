@@ -1,0 +1,9 @@
+{
+  "/api/shops/[id]/menus/route": "app/api/shops/[id]/menus/route.js",
+  "/api/shops/[id]/route": "app/api/shops/[id]/route.js",
+  "/api/shops/[id]/staffs/route": "app/api/shops/[id]/staffs/route.js",
+  "/api/shops/route": "app/api/shops/route.js",
+  "/page": "app/page.js",
+  "/shop/[id]/book/page": "app/shop/[id]/book/page.js",
+  "/shop/[id]/page": "app/shop/[id]/page.js"
+}
